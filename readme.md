@@ -1,6 +1,4 @@
-# Инструкцию по работе с GIT
-
-LICENSE: [MIT](/license.md)
+# Задание 4.9. Создание сайта
 
 # **Состав**
 
@@ -17,3 +15,7 @@ LICENSE: [MIT](/license.md)
 ---
 
 P.S. _".gitignor"_, _"license.md"_ и _"readme.md"_ не указываю.
+
+---
+
+LICENSE: [MIT](/license.md)
